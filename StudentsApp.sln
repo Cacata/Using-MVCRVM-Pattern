@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsApp.iOS", "Students
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsApp.UWP", "StudentsApp\StudentsApp.UWP\StudentsApp.UWP.csproj", "{610280E5-B7D8-4723-9659-18F010C8E638}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsApp", "StudentsApp\StudentsApp\StudentsApp.csproj", "{A9CB46B6-B60C-4EC8-A824-49CE95A754A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentsApp", "StudentsApp\StudentsApp\StudentsApp.csproj", "{A9CB46B6-B60C-4EC8-A824-49CE95A754A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

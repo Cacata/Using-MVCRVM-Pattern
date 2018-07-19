@@ -1,0 +1,6 @@
+C:\Users\MrCacata-PC\source\repos\StudentsApp\StudentsApp\StudentsApp\bin\Debug\netstandard2.0\StudentsApp.deps.json
+C:\Users\MrCacata-PC\source\repos\StudentsApp\StudentsApp\StudentsApp\bin\Debug\netstandard2.0\StudentsApp.dll
+C:\Users\MrCacata-PC\source\repos\StudentsApp\StudentsApp\StudentsApp\obj\Debug\netstandard2.0\StudentsApp.csprojAssemblyReference.cache
+C:\Users\MrCacata-PC\source\repos\StudentsApp\StudentsApp\StudentsApp\obj\Debug\netstandard2.0\StudentsApp.csproj.CoreCompileInputs.cache
+C:\Users\MrCacata-PC\source\repos\StudentsApp\StudentsApp\StudentsApp\obj\Debug\netstandard2.0\StudentsApp.AssemblyInfoInputs.cache
+C:\Users\MrCacata-PC\source\repos\StudentsApp\StudentsApp\StudentsApp\obj\Debug\netstandard2.0\StudentsApp.AssemblyInfo.cs
